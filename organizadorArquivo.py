@@ -1,4 +1,4 @@
-# import dos 3 modulos: os, glob e shutil que são necessários para funcionalidade
+# import de algumas bibliotecas necessárias
 import os
 import glob
 import shutil
