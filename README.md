@@ -2,8 +2,6 @@
 
 # Descrição do projeto
 
-- Este é um script que eu desenvolvi para facilitar o dia-a-dia, apesar de simples é bem útil se tratando da sua finalidade;
+Este é um script que eu desenvolvi para facilitar o dia-a-dia, apesar de simples é bem útil se tratando da sua finalidade. Tem como objetivo organizar os arquivos, através das suas extensões e movê-los para uma pasta específica do seu interesse
 
-- Tem como objetivo organizar os arquivos, através das suas extensões e movê-los para uma pasta específica do seu interesse;
-
-- Para executa-ló é necessário possuir o Python, na linha de código do arquivo contém informações de como usar. 
+Para executá-lo é necessário possuir o Python, na linha de código do arquivo contém informações de como usar
